@@ -7,6 +7,8 @@ SITENAME = u'My contribution to the open-source community'
 SITEURL = ''
 
 PATH = 'content'
+# Static paths
+STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -36,3 +38,4 @@ DEFAULT_PAGINATION = 10
 
 # Select pelican theme
 THEME = '/github/pelican_themes/blueidea'
+
