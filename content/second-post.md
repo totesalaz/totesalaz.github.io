@@ -6,6 +6,8 @@ Author: Luis Jose Salazar-Serrano
 
 #Taken from http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
 
+![test image]({attach}images/header-arduino.jpg)
+
 An h1 header
 ============
 
