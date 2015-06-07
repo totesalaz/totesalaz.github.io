@@ -7,7 +7,7 @@ About me
 ============
 I am a graduate student who has successfully combined his formation as a physicist and as an engineer to work in planning, design, assembly and analysis of experimental projects ranging from simple physics demonstrations to more complex experiments. 
 
-![about me]({attach}images/about-me.PNG)
+![about me]({attach}images/about-me.jpg)
 
 Currently at ICFO I am a fourth year PhD student working in the area of Weak Measurements under the supervision of Juan P. Torres in the group of quantum Engineering of Light . At the same time I am a very active member of the student chapter of ICFO. In the chapter we have been involved in different outreach demonstrations as well as other activities aimed to enrich the profiles of the students by sharing their knowledge with other coleagues through tutorials and seminars. 
 
@@ -17,4 +17,5 @@ In summary I'm a physicist who likes to work in experimental physics in the adva
 Publications
 ============
 
-Luis José Salazar-Serrano, David Guzmán, Alejandra Valencia, Juan P. Torres, "Demonstration of a highly-sensitive tunable beam displacer with no movable elements based on the concept of weak value amplification" [arXiv:1502.05540](http://arxiv.org/abs/1502.05540)
+1. **Luis José Salazar-Serrano**, David Guzmán, Alejandra Valencia, Juan P. Torres, *"Demonstration of a highly-sensitive tunable beam displacer with no movable elements based on the concept of weak value amplification"* [[arXiv:1502.05540]](http://arxiv.org/abs/1502.05540)
+2. **Luis José Salazar-Serrano**, David Guzmán, Alejandra Valencia, Juan P. Torres, *"Demonstration of a highly-sensitive tunable beam displacer with no movable elements based on the concept of weak value amplification"* [[arXiv:1502.05540]](http://arxiv.org/abs/1502.05540)
