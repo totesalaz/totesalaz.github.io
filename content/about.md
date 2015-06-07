@@ -3,8 +3,6 @@ Date: 2015-06-07
 Category: About
 Author: Luis Jose Salazar-Serrano
 
-About me
-============
 I am a graduate student who has successfully combined his formation as a physicist and as an engineer to work in planning, design, assembly and analysis of experimental projects ranging from simple physics demonstrations to more complex experiments. 
 
 ![about me]({attach}images/about-me.jpg)
@@ -18,4 +16,8 @@ Publications
 ============
 
 1. **Luis José Salazar-Serrano**, David Guzmán, Alejandra Valencia, Juan P. Torres, *"Demonstration of a highly-sensitive tunable beam displacer with no movable elements based on the concept of weak value amplification"* [[arXiv:1502.05540]](http://arxiv.org/abs/1502.05540)
-2. **Luis José Salazar-Serrano**, David Guzmán, Alejandra Valencia, Juan P. Torres, *"Demonstration of a highly-sensitive tunable beam displacer with no movable elements based on the concept of weak value amplification"* [[arXiv:1502.05540]](http://arxiv.org/abs/1502.05540)
+2. Juan P. Torres, **Luis Jose Salazar-Serrano**, *"Weak value amplification: a view from quantum estimation theory that highlights what it is and what isn't"* [[arXiv:1408.1919v2]](http://arxiv.org/abs/1408.1919)
+3. **Luis Jose Salazar-Serrano**, Alejandra Valencia, Juan P. Torres, *"Tunable beam displacer"* [[arXiv:1405.4760v4]](http://arxiv.org/abs/1405.4760)
+4. **Luis Jose Salazar-Serrano**, Alejandra Valencia, Juan P. Torres, *"Observation of spectral interference for any path difference in an interferometer"* [[arXiv:1404.1482v1]](http://arxiv.org/abs/1404.1482)
+5. **Luis Jose Salazar-Serrano**, Davide Janner, Nicolas Brunner, Valerio Pruneri, Juan P. Torres, *"Measurement of sub-pulse-width temporal delays via spectral interference induced by weak value amplification"* [[arXiv:1312.4469v1]](http://arxiv.org/abs/1312.4469) 
+6. Juan P. Torres, Graciana Puentes, Nathaniel Hermosa, **Luis Jose Salazar-Serrano**, *"Weak interference in the high-signal regime"* [[arXiv:1204.6701v1]](http://arxiv.org/abs/1204.6701)
